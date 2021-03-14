@@ -22,7 +22,7 @@ bio: My research interests focuses on the predicting
 
 interests:
 - Integral Projection model
-- Chronic Obstructive
+- Chronic Obstructive Pulmonary Disease
 
 education:
   courses:
