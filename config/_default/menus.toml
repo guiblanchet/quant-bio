@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Events"
-  url = "event"
+  name = "Opportunity"
+  url = "opportunity"
   weight = 40
 
 [[main]]
@@ -29,6 +29,11 @@
   weight = 50
 
 [[main]]
+  name = "Research"
+  url = "research"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 70
