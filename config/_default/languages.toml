@@ -15,7 +15,7 @@
 [fr]
   languageCode = "fr-ca"
   contentDir = "content/fr"
-#  title = "Chinese website title..."
+  title = "Groupe de recherche en biologie quantitative"
 #  [zh.params]
 #    description = "Site description in Chinese..."
 #  [[zh.menu.main]]
